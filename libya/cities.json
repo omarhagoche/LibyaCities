@@ -17,64 +17,64 @@
     "CityID": 3,
     "City_Eng": "Sabha",
     "City_AR": "سبها",
-    "Latitude": "",
-    "Longitude": ""
+    "Latitude": 27.0388262, 
+    "Longitude": 14.4300409
   },
   {
     "CityID": 4,
     "City_Eng": "Khoms",
     "City_AR": "الخمس",
-    "Latitude": "",
-    "Longitude": ""
+    "Latitude": 32.6315566,
+    "Longitude": 14.2503308
   },
   {
     "CityID": 5,
     "City_Eng": "Derna",
     "City_AR": "درنة",
-    "Latitude": "",
-    "Longitude": ""
+    "Latitude": 32.7620457,
+    "Longitude": 22.6399179
   },
   {
     "CityID": 6,
     "City_Eng": "Sirte",
     "City_AR": "سرت",
-    "Latitude": "",
-    "Longitude": ""
+    "Latitude": 31.1902572,
+    "Longitude": 16.5703801
   },
   {
     "CityID": 7,
     "City_Eng": "Al Kufra",
     "City_AR": "الكفرة",
-    "Latitude": "",
-    "Longitude": ""
+    "Latitude": 24.1821207,
+    "Longitude": 23.3014144
   },
   {
     "CityID": 8,
     "City_Eng": "Marj",
     "City_AR": "المرج",
-    "Latitude": "",
-    "Longitude": ""
+    "Latitude": 32.4985432,
+    "Longitude": 20.8200552
   },
   {
     "CityID": 9,
     "City_Eng": "Yafran",
     "City_AR": "يفرن",
-    "Latitude": "",
-    "Longitude": ""
+    "Latitude": 32.0538400,
+    "Longitude": 12.5357435
   },
   {
     "CityID": 10,
     "City_Eng": "Tarhuna",
     "City_AR": "ترهونة",
-    "Latitude": "",
-    "Longitude": ""
+    "Latitude": 32.4282570,
+    "Longitude": 13.6414789
   },
   {
     "CityID": 11,
     "City_Eng": "Msallata",
     "City_AR": "مسلاتة",
-    "Latitude": "",
-    "Longitude": ""
+    "Latitude": 32.5835949,
+    "Longitude": 14.0366220
   },
   {
     "CityID": 12,
@@ -283,8 +283,8 @@
     "CityID": 41,
     "City_Eng": "Ghat",
     "City_AR": "غات",
-    "Latitude": "",
-    "Longitude": ""
+    "Latitude": 24.9637821,
+    "Longitude": 10.1763321
   },
   {
     "CityID": 42,
@@ -374,8 +374,8 @@
     "CityID": 54,
     "City_Eng": "Sokna",
     "City_AR": "سوكنة",
-    "Latitude": "",
-    "Longitude": ""
+    "Latitude": 29.0605921,
+    "Longitude": 15.7925033
   },
   {
     "CityID": 55,
@@ -465,8 +465,8 @@
     "CityID": 67,
     "City_Eng": "Traghan",
     "City_AR": "تراغن",
-    "Latitude": "",
-    "Longitude": ""
+    "Latitude": 25.9368579,
+    "Longitude": 14.4275808
   },
   {
     "CityID": 68,
@@ -565,5 +565,13 @@
     "City_AR": "طبرق",
     "Latitude": 32.0731577,
     "Longitude": 23.9201712
+  },
+  
+  {
+    "CityID": 82,
+    "City_Eng": "Al Birkat",
+    "City_AR": "البركت",
+    "Latitude": 24.8948320, 
+    "Longitude": 10.1846336
   }
 ]
