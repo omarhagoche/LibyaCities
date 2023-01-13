@@ -50,7 +50,7 @@
   },
   {
     "CityID": 8,
-    "City_Eng": "Marj",
+    "City_Eng": "Al Marj",
     "City_AR": "المرج",
     "Latitude": 32.4985432,
     "Longitude": 20.8200552
@@ -99,14 +99,14 @@
   },
   {
     "CityID": 15,
-    "City_Eng": "Jumayl",
+    "City_Eng": "Al Jumayl",
     "City_AR": "الجميل",
     "Latitude": "",
     "Longitude": ""
   },
   {
     "CityID": 16,
-    "City_Eng": "Sorman",
+    "City_Eng": "Al Zintan",
     "City_AR": "الزنتان",
     "Latitude": "",
     "Longitude": ""
@@ -134,7 +134,7 @@
   },
   {
     "CityID": 20,
-    "City_Eng": "Abyar",
+    "City_Eng": "Al Abyar",
     "City_AR": "الأبيار",
     "Latitude": "",
     "Longitude": ""
@@ -344,7 +344,7 @@
   },
   {
     "CityID": 50,
-    "City_Eng": "Qatrun",
+    "City_Eng": "Al Qatrun",
     "City_AR": "القطرون",
     "Latitude": "",
     "Longitude": ""
