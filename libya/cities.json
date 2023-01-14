@@ -1,740 +1,739 @@
 [
   {
     "id": 1,
-    "name":{
-      "en" : "Tripoli",
+    "name": [{
+      "en": "Tripoli",
       "ar": "طرابلس"
-    },
+    }],
     "latitude": 32.8829717,
     "longitude": 13.1708262
   },
   {
     "id": 2,
-    "name":{ "en": "Sabratah",
-
+    "name": [{
+      "en": "Sabratah",
       "ar": "صبراتة"
-    },
+    }],
     "latitude": 32.7704412,
     "longitude": 12.4112027
   },
   {
     "id": 3,
-    "name":{ "en": "Sabha",
-
+    "name": [{
+      "en": "Sabha",
       "ar": "سبها"
-    },
+    }],
     "latitude": 27.0388262,
     "longitude": 14.4300409
   },
   {
     "id": 4,
-    "name":{ "en": "Khoms",
-
+    "name": [{
+      "en": "Khoms",
       "ar": "الخمس"
-    },
+    }],
     "latitude": 32.6315566,
     "longitude": 14.2503308
   },
   {
     "id": 5,
-    "name":{ "en": "Derna",
-
+    "name": [{
+      "en": "Derna",
       "ar": "درنة"
-    },
+    }],
     "latitude": 32.7620457,
     "longitude": 22.6399179
   },
   {
     "id": 6,
-    "name":{ "en": "Sirte",
-
+    "name": [{
+      "en": "Sirte",
       "ar": "سرت"
-    },
+    }],
     "latitude": 31.1902572,
     "longitude": 16.5703801
   },
   {
     "id": 7,
-    "name":{ "en": "Al Kufra",
-
+    "name": [{
+      "en": "Al Kufra",
       "ar": "الكفرة"
-    },
+    }],
     "latitude": 24.1821207,
     "longitude": 23.3014144
   },
   {
     "id": 8,
-    "name":{ "en": "Al Marj",
-
+    "name": [{
+      "en": "Al Marj",
       "ar": "المرج"
-    },
+    }],
     "latitude": 32.4985432,
     "longitude": 20.8200552
   },
   {
     "id": 9,
-    "name":{ "en": "Yafran",
-
+    "name": [{
+      "en": "Yafran",
       "ar": "يفرن"
-    },
+    }],
     "latitude": 32.0538400,
     "longitude": 12.5357435
   },
   {
     "id": 10,
-    "name":{ "en": "Tarhuna",
-
+    "name": [{
+      "en": "Tarhuna",
       "ar": "ترهونة"
-    },
+    }],
     "latitude": 32.4282570,
     "longitude": 13.6414789
   },
   {
     "id": 11,
-    "name":{ "en": "Msallata",
-
+    "name": [{
+      "en": "Msallata",
       "ar": "مسلاتة"
-    },
+    }],
     "latitude": 32.5835949,
     "longitude": 14.0366220
   },
   {
     "id": 12,
-    "name":{ "en": "Benghazi",
-
+    "name": [{
+      "en": "Benghazi",
       "ar": "بنغازي"
-    },
+    }],
     "latitude": 32.0814853,
     "longitude": 19.994915
   },
   {
     "id": 13,
-    "name":{ "en": "Bani Walid",
-
+    "name": [{
+      "en": "Bani Walid",
       "ar": "بني وليد"
-    },
+    }],
     "latitude": "",
     "longitude": ""
   },
   {
     "id": 14,
-    "name":{ "en": "Surman",
-
+    "name": [{
+      "en": "Surman",
       "ar": "صرمان"
-    },
+    }],
     "latitude": "",
     "longitude": ""
   },
   {
     "id": 15,
-    "name":{ "en": "Al Jumayl",
-
+    "name": [{
+      "en": "Al Jumayl",
       "ar": "الجميل"
-    },
+    }],
     "latitude": "",
     "longitude": ""
   },
   {
     "id": 16,
-    "name":{ "en": "Al Zintan",
-
+    "name": [{
+      "en": "Al Zintan",
       "ar": "الزنتان"
-    },
+    }],
     "latitude": "",
     "longitude": ""
   },
   {
     "id": 17,
-    "name":{ "en": "Zuwara",
-
+    "name": [{
+      "en": "Zuwara",
       "ar": "زوارة"
-    },
+    }],
     "latitude": "",
     "longitude": ""
   },
   {
     "id": 18,
-    "name":{ "en": "Shahhat",
-
+    "name": [{
+      "en": "Shahhat",
       "ar": "شحات"
-    },
+    }],
     "latitude": "",
     "longitude": ""
   },
   {
     "id": 19,
-    "name":{ "en": "Ubari",
-
+    "name": [{
+      "en": "Ubari",
       "ar": "أوباري"
-    },
+    }],
     "latitude": "",
     "longitude": ""
   },
   {
     "id": 20,
-    "name":{ "en": "Al Abyar",
-
+    "name": [{
+      "en": "Al Abyar",
       "ar": "الأبيار"
-    },
+    }],
     "latitude": "",
     "longitude": ""
   },
   {
     "id": 21,
-    "name":{ "en": "Zaltan",
-
+    "name": [{
+      "en": "Zaltan",
       "ar": "زلطن"
-    },
+    }],
     "latitude": "",
     "longitude": ""
   },
   {
     "id": 22,
-    "name":{ "en": "Al Qubah",
-
+    "name": [{
+      "en": "Al Qubah",
       "ar": "القبة"
-    },
+    }],
     "latitude": "",
     "longitude": ""
   },
   {
     "id": 23,
-    "name":{ "en": "Misrata",
-
+    "name": [{
+      "en": "Misrata",
       "ar": "مصراتة"
-    },
+    }],
     "latitude": 32.3154902,
     "longitude": 14.9571463
   },
   {
     "id": 24,
-    "name":{ "en": "Tawergha",
-
+    "name": [{
+      "en": "Tawergha",
       "ar": "تاورغاء"
-    },
+    }],
     "latitude": "",
     "longitude": ""
   },
   {
     "id": 25,
-    "name":{ "en": "Al Maya",
-
+    "name": [{
+      "en": "Al Maya",
       "ar": "الماية"
-    },
+    }],
     "latitude": "",
     "longitude": ""
   },
   {
     "id": 26,
-    "name":{ "en": "Murzuk",
-
+    "name": [{
+      "en": "Murzuk",
       "ar": "مرزق"
-    },
+    }],
     "latitude": "",
     "longitude": ""
   },
   {
     "id": 27,
-    "name":{ "en": "Brega",
-
+    "name": [{
+      "en": "Brega",
       "ar": "البريقة"
-    },
+    }],
     "latitude": "",
     "longitude": ""
   },
   {
     "id": 28,
-    "name":{ "en": "Hun",
-
+    "name": [{
+      "en": "Hun",
       "ar": "هون"
-    },
+    }],
     "latitude": "",
     "longitude": ""
   },
   {
     "id": 29,
-    "name":{ "en": "Jalu",
-
+    "name": [{
+      "en": "Jalu",
       "ar": "جالو"
-    },
+    }],
     "latitude": "",
     "longitude": ""
   },
   {
     "id": 30,
-    "name":{ "en": "Nalut",
-
+    "name": [{
+      "en": "Nalut",
       "ar": "نالوت"
-    },
+    }],
     "latitude": "",
     "longitude": ""
   },
   {
     "id": 31,
-    "name":{ "en": "Suluq",
-
+    "name": [{
+      "en": "Suluq",
       "ar": "سلوق"
-    },
+    }],
     "latitude": "",
     "longitude": ""
   },
   {
     "id": 32,
-    "name":{ "en": "Mizda",
-
+    "name": [{
+      "en": "Mizda",
       "ar": "مزدة"
-    },
+    }],
     "latitude": "",
     "longitude": ""
   },
   {
     "id": 33,
-    "name":{ "en": "Ra's Lanuf",
-
+    "name": [{
+      "en": "Ra's Lanuf",
       "ar": "راس لانوف"
-    },
+    }],
     "latitude": "",
     "longitude": ""
   },
   {
     "id": 34,
-    "name":{ "en": "Az-Zāwiyah",
-
+    "name": [{
+      "en": "Az-Zāwiyah",
       "ar": "الزاوية"
-    },
+    }],
     "latitude": 32.7478019,
     "longitude": 12.6981574
   },
   {
     "id": 35,
-    "name":{ "en": "Al Urban",
-
+    "name": [{
+      "en": "Al Urban",
       "ar": "العربان"
-    },
+    }],
     "latitude": "",
     "longitude": ""
   },
   {
     "id": 36,
-    "name":{ "en": "Waddan",
-
+    "name": [{
+      "en": "Waddan",
       "ar": "ودان"
-    },
+    }],
     "latitude": "",
     "longitude": ""
   },
   {
     "id": 37,
-    "name":{ "en": "Ajaylat",
-
+    "name": [{
+      "en": "Ajaylat",
       "ar": "العجيلات"
-    },
+    }],
     "latitude": "",
     "longitude": ""
   },
   {
     "id": 38,
-    "name":{ "en": "Tocra",
-
+    "name": [{
+      "en": "Tocra",
       "ar": "توكرة"
-    },
+    }],
     "latitude": "",
     "longitude": ""
   },
   {
     "id": 39,
-    "name":{ "en": "Brak",
-
+    "name": [{
+      "en": "Brak",
       "ar": "براك"
-    },
+    }],
     "latitude": "",
     "longitude": ""
   },
   {
     "id": 40,
-    "name":{ "en": "Gadamis",
-
+    "name": [{
+      "en": "Gadamis",
       "ar": "غدامس"
-    },
+    }],
     "latitude": "",
     "longitude": ""
   },
   {
     "id": 41,
-    "name":{ "en": "Ghat",
-
+    "name": [{
+      "en": "Ghat",
       "ar": "غات"
-    },
+    }],
     "latitude": 24.9637821,
     "longitude": 10.1763321
   },
   {
     "id": 42,
-    "name":{ "en": "Awjilah",
-
+    "name": [{
+      "en": "Awjilah",
       "ar": "أوجلة"
-    },
+    }],
     "latitude": "",
     "longitude": ""
   },
   {
     "id": 43,
-    "name":{ "en": "Rebiana",
-
+    "name": [{
+      "en": "Rebiana",
       "ar": "ربيانة"
-    },
+    }],
     "latitude": "",
     "longitude": ""
   },
   {
     "id": 44,
-    "name":{ "en": "Zliten",
-
+    "name": [{
+      "en": "Zliten",
       "ar": "زليتن"
-    },
+    }],
     "latitude": 32.2871064,
     "longitude": 14.2291436
   },
   {
     "id": 45,
-    "name":{ "en": "Fersta",
-
+    "name": [{
+      "en": "Fersta",
       "ar": "فرسطاء"
-    },
+    }],
     "latitude": "",
     "longitude": ""
   },
   {
     "id": 46,
-    "name":{ "en": "Umm al Rizam",
-
+    "name": [{
+      "en": "Umm al Rizam",
       "ar": "أم الرزم"
-    },
+    }],
     "latitude": "",
     "longitude": ""
   },
   {
     "id": 47,
-    "name":{ "en": "Ar Rayaniya",
-
+    "name": [{
+      "en": "Ar Rayaniya",
       "ar": "الرياينة"
-    },
+    }],
     "latitude": "",
     "longitude": ""
   },
   {
     "id": 48,
-    "name":{ "en": "Teji",
-
+    "name": [{
+      "en": "Teji",
       "ar": "تيجي"
-    },
+    }],
     "latitude": "",
     "longitude": ""
   },
   {
     "id": 49,
-    "name":{ "en": "Qaminis",
-
+    "name": [{
+      "en": "Qaminis",
       "ar": "قمينس"
-    },
+    }],
     "latitude": "",
     "longitude": ""
   },
   {
     "id": 50,
-    "name":{ "en": "Al Qatrun",
-
+    "name": [{
+      "en": "Al Qatrun",
       "ar": "القطرون"
-    },
+    }],
     "latitude": "",
     "longitude": ""
   },
   {
     "id": 51,
-    "name":{ "en": "Benina",
-
+    "name": [{
+      "en": "Benina",
       "ar": "بنينا"
-    },
+    }],
     "latitude": "",
     "longitude": ""
   },
   {
     "id": 52,
-    "name":{ "en": "Kikla",
-
+    "name": [{
+      "en": "Kikla",
       "ar": "ككلة"
-    },
+    }],
     "latitude": "",
     "longitude": ""
   },
   {
     "id": 53,
-    "name":{ "en": "Al Rheibat",
-
+    "name": [{
+      "en": "Al Rheibat",
       "ar": "الرحيبات"
-    },
+    }],
     "latitude": "",
     "longitude": ""
   },
   {
     "id": 54,
-    "name":{ "en": "Sokna",
-
+    "name": [{
+      "en": "Sokna",
       "ar": "سوكنة"
-    },
+    }],
     "latitude": 29.0605921,
     "longitude": 15.7925033
   },
   {
     "id": 55,
-    "name":{ "en": "Bayda",
-
+    "name": [{
+      "en": "Bayda",
       "ar": "البيضاء"
-    },
+    }],
     "latitude": 32.7619599,
     "longitude": 21.6764808
   },
   {
     "id": 56,
-    "name":{ "en": "Massa",
-
+    "name": [{
+      "en": "Massa",
       "ar": "مسة"
-    },
+    }],
     "latitude": "",
     "longitude": ""
   },
   {
     "id": 57,
-    "name":{ "en": "Bin Jawad",
-
+    "name": [{
+      "en": "Bin Jawad",
       "ar": "بن جواد"
-    },
+    }],
     "latitude": "",
     "longitude": ""
   },
   {
     "id": 58,
-    "name":{ "en": "Umm al Aranib",
-
+    "name": [{
+      "en": "Umm al Aranib",
       "ar": "أم الأرانب"
-    },
+    }],
     "latitude": "",
     "longitude": ""
   },
   {
     "id": 59,
-    "name":{ "en": "Jadu",
-
+    "name": [{
+      "en": "Jadu",
       "ar": "جادو"
-    },
+    }],
     "latitude": "",
     "longitude": ""
   },
   {
     "id": 60,
-    "name":{ "en": "Arrabita",
-
+    "name": [{
+      "en": "Arrabita",
       "ar": "الرابطة"
-    },
+    }],
     "latitude": "",
     "longitude": ""
   },
   {
     "id": 61,
-    "name":{ "en": "Al Abraq",
-
+    "name": [{
+      "en": "Al Abraq",
       "ar": "الأبرق"
-    },
+    }],
     "latitude": "",
     "longitude": ""
   },
   {
     "id": 62,
-    "name":{ "en": "Sidi as Said",
-
+    "name": [{
+      "en": "Sidi as Said",
       "ar": "سيدي سعيد"
-    },
+    }],
     "latitude": "",
     "longitude": ""
   },
   {
     "id": 63,
-    "name":{ "en": "Ar Rajban",
-
+    "name": [{
+      "en": "Ar Rajban",
       "ar": "الرجبان"
-    },
+    }],
     "latitude": "",
     "longitude": ""
   },
   {
     "id": 64,
-    "name":{ "en": "Zella",
-
+    "name": [{
+      "en": "Zella",
       "ar": "زلة"
-    },
+    }],
     "latitude": "",
     "longitude": ""
   },
   {
     "id": 65,
-    "name":{ "en": "Martuba",
-
+    "name": [{
+      "en": "Martuba",
       "ar": "مرتوبة"
-    },
+    }],
     "latitude": "",
     "longitude": ""
   },
   {
     "id": 66,
-    "name":{ "en": "Ajdabiya",
-
+    "name": [{
+      "en": "Ajdabiya",
       "ar": "اجدابيا"
-    },
+    }],
     "latitude": 29.9858633,
     "longitude": 19.149881
   },
   {
     "id": 67,
-    "name":{ "en": "Traghan",
-
+    "name": [{
+      "en": "Traghan",
       "ar": "تراغن"
-    },
+    }],
     "latitude": 25.9368579,
     "longitude": 14.4275808
   },
   {
     "id": 68,
-    "name":{ "en": "Ad Dirsiyah",
-
+    "name": [{
+      "en": "Ad Dirsiyah",
       "ar": "الدرسية"
-    },
+    }],
     "latitude": "",
     "longitude": ""
   },
   {
     "id": 69,
-    "name":{ "en": "Al Bayyada",
-
+    "name": [{
+      "en": "Al Bayyada",
       "ar": "البياضه"
-    },
+    }],
     "latitude": "",
     "longitude": ""
   },
   {
     "id": 70,
-    "name":{ "en": "Qayqab",
-
+    "name": [{
+      "en": "Qayqab",
       "ar": "القيقب"
-    },
+    }],
     "latitude": "",
     "longitude": ""
   },
   {
     "id": 71,
-    "name":{ "en": "Janzur",
-
+    "name": [{
+      "en": "Janzur",
       "ar": "جنزور"
-    },
+    }],
     "latitude": "",
     "longitude": ""
   },
   {
     "id": 72,
-    "name":{ "en": "Musaid",
-
+    "name": [{
+      "en": "Musaid",
       "ar": "مساعد"
-    },
+    }],
     "latitude": "",
     "longitude": ""
   },
   {
     "id": 73,
-    "name":{ "en": "Taknis",
-
+    "name": [{
+      "en": "Taknis",
       "ar": "تاكنس"
-    },
+    }],
     "latitude": "",
     "longitude": ""
   },
   {
     "id": 74,
-    "name":{ "en": "Susah",
-
+    "name": [{
+      "en": "Susah",
       "ar": "سوسة"
-    },
+    }],
     "latitude": "",
     "longitude": ""
   },
   {
     "id": 75,
-    "name":{ "en": "Tazirbu",
-
+    "name": [{
+      "en": "Tazirbu",
       "ar": "تازر بو"
-    },
+    }],
     "latitude": "",
     "longitude": ""
   },
   {
     "id": 76,
-    "name":{ "en": "Farzougha",
-
+    "name": [{
+      "en": "Farzougha",
       "ar": "فرزوغة"
-    },
+    }],
     "latitude": "",
     "longitude": ""
   },
   {
     "id": 77,
-    "name":{ "en": "Gharyan",
-
+    "name": [{
+      "en": "Gharyan",
       "ar": "غريان"
-    },
+    }],
     "latitude": 32.1684974,
     "longitude": 12.9982616
   },
   {
     "id": 78,
-    "name":{ "en": "Bi'r al Ashhab",
-
+    "name": [{
+      "en": "Bi'r al Ashhab",
       "ar": "بئر الأشهب"
-    },
+    }],
     "latitude": "",
     "longitude": ""
   },
   {
     "id": 79,
-    "name":{ "en": "Riqdalin",
-
+    "name": [{
+      "en": "Riqdalin",
       "ar": "رقدالين"
-    },
+    }],
     "latitude": "",
     "longitude": ""
   },
   {
     "id": 80,
-    "name":{ "en": "Al Jawf",
-
+    "name": [{
+      "en": "Al Jawf",
       "ar": "الجوف"
-    },
+    }],
     "latitude": "",
     "longitude": ""
   },
   {
     "id": 81,
-    "name":{ "en": "Tobruk",
-
+    "name": [{
+      "en": "Tobruk",
       "ar": "طبرق"
-    },
+    }],
     "latitude": 32.0731577,
     "longitude": 23.9201712
   },
-
   {
     "id": 82,
-    "name":{ "en": "Al Birkat",
-
+    "name": [{
+      "en": "Al Birkat",
       "ar": "البركت"
-    },
+    }],
     "latitude": 24.8948320,
     "longitude": 10.1846336
   }
