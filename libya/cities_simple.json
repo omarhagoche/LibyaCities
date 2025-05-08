@@ -14,80 +14,80 @@
     },
     {
       "CityID": 2,
-      "City_Eng": "Sabratah",
-      "City_AR": "صبراتة",
-      "Latitude": 32.7704412,
-      "Longitude": 12.4112027
+      "City_Eng": "Misrata",
+      "City_AR": "مصراتة",
+      "Latitude": 32.3154902,
+      "Longitude": 14.9571463
     },
     {
       "CityID": 3,
-      "City_Eng": "Sabha",
-      "City_AR": "سبها",
-      "Latitude": 27.0388262, 
-      "Longitude": 14.4300409
+      "City_Eng": "Benghazi",
+      "City_AR": "بنغازي",
+      "Latitude": 32.0814853,
+      "Longitude": 19.994915
     },
     {
       "CityID": 4,
+      "City_Eng": "Sabha",
+      "City_AR": "سبها",
+      "Latitude": 27.0388262,
+      "Longitude": 14.4300409
+    },
+    {
+      "CityID": 5,
       "City_Eng": "Khoms",
       "City_AR": "الخمس",
       "Latitude": 32.6315566,
       "Longitude": 14.2503308
     },
     {
-      "CityID": 5,
+      "CityID": 6,
       "City_Eng": "Derna",
       "City_AR": "درنة",
       "Latitude": 32.7620457,
       "Longitude": 22.6399179
     },
     {
-      "CityID": 6,
+      "CityID": 7,
       "City_Eng": "Sirte",
       "City_AR": "سرت",
       "Latitude": 31.1902572,
       "Longitude": 16.5703801
     },
     {
-      "CityID": 7,
+      "CityID": 8,
       "City_Eng": "Al Kufra",
       "City_AR": "الكفرة",
       "Latitude": 24.1821207,
       "Longitude": 23.3014144
     },
     {
-      "CityID": 8,
+      "CityID": 9,
       "City_Eng": "Al Marj",
       "City_AR": "المرج",
       "Latitude": 32.4985432,
       "Longitude": 20.8200552
     },
     {
-      "CityID": 9,
+      "CityID": 10,
       "City_Eng": "Yafran",
       "City_AR": "يفرن",
       "Latitude": 32.0538400,
       "Longitude": 12.5357435
     },
     {
-      "CityID": 10,
+      "CityID": 11,
       "City_Eng": "Tarhuna",
       "City_AR": "ترهونة",
       "Latitude": 32.4282570,
       "Longitude": 13.6414789
     },
     {
-      "CityID": 11,
+      "CityID": 12,
       "City_Eng": "Msallata",
       "City_AR": "مسلاتة",
       "Latitude": 32.5835949,
       "Longitude": 14.0366220
-    },
-    {
-      "CityID": 12,
-      "City_Eng": "Benghazi",
-      "City_AR": "بنغازي",
-      "Latitude": 32.0814853,
-      "Longitude": 19.994915
     },
     {
       "CityID": 13,
@@ -161,10 +161,10 @@
     },
     {
       "CityID": 23,
-      "City_Eng": "Misrata",
-      "City_AR": "مصراتة",
-      "Latitude": 32.3154902,
-      "Longitude": 14.9571463
+      "City_Eng": "Sabratah",
+      "City_AR": "صبراتة",
+      "Latitude": 32.7704412,
+      "Longitude": 12.4112027
     },
     {
       "CityID": 24,
