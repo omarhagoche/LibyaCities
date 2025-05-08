@@ -93,71 +93,71 @@
       "CityID": 13,
       "City_Eng": "Bani Walid",
       "City_AR": "بني وليد",
-      "Latitude": null,
-      "Longitude": null
+      "Latitude": 31.750560652027612,
+      "Longitude": 14.015462572426568
     },
     {
       "CityID": 14,
       "City_Eng": "Surman",
       "City_AR": "صرمان",
-      "Latitude": null,
-      "Longitude": null
+      "Latitude": 32.748524698182045,
+      "Longitude": 12.56142840848368
     },
     {
       "CityID": 15,
       "City_Eng": "Al Jumayl",
       "City_AR": "الجميل",
-      "Latitude": null,
-      "Longitude": null
+      "Latitude": 32.85599457876811,
+      "Longitude": 12.057881289504477
     },
     {
       "CityID": 16,
       "City_Eng": "Al Zintan",
       "City_AR": "الزنتان",
-      "Latitude": null,
-      "Longitude": null
+      "Latitude": 31.929721979079932,
+      "Longitude": 12.247686882684464
     },
     {
       "CityID": 17,
       "City_Eng": "Zuwara",
       "City_AR": "زوارة",
-      "Latitude": null,
-      "Longitude": null
+      "Latitude": 32.93092434463498,
+      "Longitude": 12.080433138285661
     },
     {
       "CityID": 18,
       "City_Eng": "Shahhat",
       "City_AR": "شحات",
-      "Latitude": null,
-      "Longitude": null
+      "Latitude": 32.80351981169309,
+      "Longitude": 21.863273883093477
     },
     {
       "CityID": 19,
       "City_Eng": "Ubari",
       "City_AR": "أوباري",
-      "Latitude": null,
-      "Longitude": null
+      "Latitude": 26.58116720885266,
+      "Longitude": 12.794127872187486
     },
     {
       "CityID": 20,
       "City_Eng": "Al Abyar",
       "City_AR": "الأبيار",
-      "Latitude": null,
-      "Longitude": null
+      "Latitude": 32.1854153626375,
+      "Longitude": 20.58629619701347
     },
     {
       "CityID": 21,
       "City_Eng": "Zaltan",
       "City_AR": "زلطن",
-      "Latitude": null,
-      "Longitude": null
+      "Latitude": 32.95657656247528,
+      "Longitude": 11.849185122047945
     },
     {
       "CityID": 22,
       "City_Eng": "Al Qubah",
       "City_AR": "القبة",
-      "Latitude": null,
-      "Longitude": null
+      "Latitude": 32.767457980034386,
+      "Longitude": 22.23183013527213
     },
     {
       "CityID": 23,
@@ -170,71 +170,71 @@
       "CityID": 24,
       "City_Eng": "Tawergha",
       "City_AR": "تاورغاء",
-      "Latitude": null,
-      "Longitude": null
+      "Latitude": 32.01822409627071,
+      "Longitude": 15.043973331735705
     },
     {
       "CityID": 25,
       "City_Eng": "Al Maya",
       "City_AR": "الماية",
-      "Latitude": null,
-      "Longitude": null
+      "Latitude": 32.800576564032504,
+      "Longitude": 12.900128737172334
     },
     {
       "CityID": 26,
       "City_Eng": "Murzuk",
       "City_AR": "مرزق",
-      "Latitude": null,
-      "Longitude": null
+      "Latitude": 25.914396550707668,
+      "Longitude": 13.91651258462254
     },
     {
       "CityID": 27,
       "City_Eng": "Brega",
       "City_AR": "البريقة",
-      "Latitude": null,
-      "Longitude": null
+      "Latitude": 30.403339215927414,
+      "Longitude": 19.603396464632066
     },
     {
       "CityID": 28,
       "City_Eng": "Hun",
       "City_AR": "هون",
-      "Latitude": null,
-      "Longitude": null
+      "Latitude": 29.12391366435441,
+      "Longitude": 15.941618572287705
     },
     {
       "CityID": 29,
       "City_Eng": "Jalu",
       "City_AR": "جالو",
-      "Latitude": null,
-      "Longitude": null
+      "Latitude": 29.044882884620108,
+      "Longitude": 21.526691599737433
     },
     {
       "CityID": 30,
       "City_Eng": "Nalut",
       "City_AR": "نالوت",
-      "Latitude": null,
-      "Longitude": null
+      "Latitude": 31.87405180797136,
+      "Longitude": 10.976312038066771
     },
     {
       "CityID": 31,
       "City_Eng": "Suluq",
       "City_AR": "سلوق",
-      "Latitude": null,
-      "Longitude": null
+      "Latitude": 31.676530037975652,
+      "Longitude": 20.270204405357962
     },
     {
       "CityID": 32,
       "City_Eng": "Mizda",
       "City_AR": "مزدة",
-      "Latitude": null,
-      "Longitude": null
+      "Latitude": 31.447920525556377,
+      "Longitude": 12.984168641857943
     },
     {
       "CityID": 33,
       "City_Eng": "Ra's Lanuf",
       "City_AR": "راس لانوف",
-      "Latitude": null,
-      "Longitude": null
+      "Latitude": 30.579762259842976,
+      "Longitude": 18.416003684868762
     },
     {
       "CityID": 34,
@@ -247,43 +247,43 @@
       "CityID": 35,
       "City_Eng": "Al Urban",
       "City_AR": "العربان",
-      "Latitude": null,
-      "Longitude": null
+      "Latitude": 32.1671775322378,
+      "Longitude": 13.153190829726698
     },
     {
       "CityID": 36,
       "City_Eng": "Waddan",
       "City_AR": "ودان",
-      "Latitude": null,
-      "Longitude": null
+      "Latitude": 29.16454514368591,
+      "Longitude": 16.125058716414802
     },
     {
       "CityID": 37,
       "City_Eng": "Ajaylat",
       "City_AR": "العجيلات",
-      "Latitude": null,
-      "Longitude": null
+      "Latitude": 32.748655601318845,
+      "Longitude": 12.335414711761462
     },
     {
       "CityID": 38,
       "City_Eng": "Tocra",
       "City_AR": "توكرة",
-      "Latitude": null,
-      "Longitude": null
+      "Latitude": 32.53277441801454,
+      "Longitude": 20.587177243686487
     },
     {
       "CityID": 39,
       "City_Eng": "Brak",
       "City_AR": "براك",
-      "Latitude": null,
-      "Longitude": null
+      "Latitude": 27.5453534254649,
+      "Longitude": 14.26692088376891
     },
     {
       "CityID": 40,
       "City_Eng": "Gadamis",
       "City_AR": "غدامس",
-      "Latitude": null,
-      "Longitude": null
+      "Latitude": 30.13150324627022,
+      "Longitude": 9.495449072159817
     },
     {
       "CityID": 41,
@@ -296,15 +296,15 @@
       "CityID": 42,
       "City_Eng": "Awjilah",
       "City_AR": "أوجلة",
-      "Latitude": null,
-      "Longitude": null
+      "Latitude": 29.14037058049688,
+      "Longitude":  21.2915016266087
     },
     {
       "CityID": 43,
       "City_Eng": "Rebiana",
       "City_AR": "ربيانة",
-      "Latitude": null,
-      "Longitude": null
+      "Latitude": 24.233665449467523,
+      "Longitude": 21.983547867292586
     },
     {
       "CityID": 44,
@@ -317,64 +317,64 @@
       "CityID": 45,
       "City_Eng": "Fersta",
       "City_AR": "فرسطاء",
-      "Latitude": null,
-      "Longitude": null
+      "Latitude": 31.862751459748075,
+      "Longitude": 11.380294967715544
     },
     {
       "CityID": 46,
       "City_Eng": "Umm al Rizam",
       "City_AR": "أم الرزم",
-      "Latitude": null,
-      "Longitude": null
+      "Latitude": 32.534262756185726,
+      "Longitude": 23.001003844244355
     },
     {
       "CityID": 47,
       "City_Eng": "Ar Rayaniya",
       "City_AR": "الرياينة",
-      "Latitude": null,
-      "Longitude": null
+      "Latitude": 32.055735275434714,
+      "Longitude": 12.397008178733355
     },
     {
       "CityID": 48,
       "City_Eng": "Teji",
       "City_AR": "تيجي",
-      "Latitude": null,
-      "Longitude": null
+      "Latitude": 32.01549342791051,
+      "Longitude": 11.356279696057447
     },
     {
       "CityID": 49,
       "City_Eng": "Qaminis",
       "City_AR": "قمينس",
-      "Latitude": null,
-      "Longitude": null
+      "Latitude": 31.661409369317806,
+      "Longitude": 20.018184211235006
     },
     {
       "CityID": 50,
       "City_Eng": "Al Qatrun",
       "City_AR": "القطرون",
-      "Latitude": null,
-      "Longitude": null
+      "Latitude": 24.92964182912125,
+      "Longitude": 14.576531521303597
     },
     {
       "CityID": 51,
       "City_Eng": "Benina",
       "City_AR": "بنينا",
-      "Latitude": null,
-      "Longitude": null
+      "Latitude": 32.092168577590854,
+      "Longitude": 20.24643810185547
     },
     {
       "CityID": 52,
       "City_Eng": "Kikla",
       "City_AR": "ككلة",
-      "Latitude": null,
-      "Longitude": null
+      "Latitude": 32.06002178837819,
+      "Longitude": 12.695538906792343
     },
     {
       "CityID": 53,
       "City_Eng": "Al Rheibat",
       "City_AR": "الرحيبات",
-      "Latitude": null,
-      "Longitude": null
+      "Latitude": 31.846017950162143,
+      "Longitude": 11.842358253429325
     },
     {
       "CityID": 54,
@@ -394,44 +394,47 @@
       "CityID": 56,
       "City_Eng": "Massa",
       "City_AR": "مسة",
-      "Latitude": null,
-      "Longitude": null
+      "Latitude": 32.75221943861874,
+      "Longitude": 21.62718795415582
     },
     {
       "CityID": 57,
       "City_Eng": "Bin Jawad",
       "City_AR": "بن جواد",
-      "Latitude": null,
-      "Longitude": null
+      "Latitude": 30.800335227322915,
+      "Longitude": 18.086500108665685
     },
     {
       "CityID": 58,
       "City_Eng": "Umm al Aranib",
       "City_AR": "أم الأرانب",
-      "Latitude": null,
-      "Longitude": null
+      "Latitude": 26.143417681869728,
+      "Longitude": 14.734597175639507
     },
     {
       "CityID": 59,
       "City_Eng": "Jadu",
       "City_AR": "جادو",
-      "Latitude": null,
-      "Longitude": null
+      "Latitude": 31.958423218147168, 
+      "Longitude": 12.020373360640127
     },
     {
       "CityID": 60,
       "City_Eng": "Arrabita",
       "City_AR": "الرابطة",
-      "Latitude": null,
-      "Longitude": null
+      "Latitude": 32.172049613346836,
+      "Longitude": 12.856535844806166
     },
     {
       "CityID": 61,
       "City_Eng": "Al Abraq",
       "City_AR": "الأبرق",
-      "Latitude": null,
-      "Longitude": null
+      "Latitude": 32.7850109300889,
+      "Longitude": 22.001666878381403
     },
+
+
+    
     {
       "CityID": 62,
       "City_Eng": "Sidi as Said",
@@ -439,26 +442,29 @@
       "Latitude": null,
       "Longitude": null
     },
+
+
+
     {
       "CityID": 63,
       "City_Eng": "Ar Rajban",
       "City_AR": "الرجبان",
-      "Latitude": null,
-      "Longitude": null
+      "Latitude": 31.930068669747577,
+      "Longitude": 12.138228600091294
     },
     {
       "CityID": 64,
       "City_Eng": "Zella",
       "City_AR": "زلة",
-      "Latitude": null,
-      "Longitude": null
+      "Latitude": 28.55133846062605,
+      "Longitude": 17.54344739821034
     },
     {
       "CityID": 65,
       "City_Eng": "Martuba",
       "City_AR": "مرتوبة",
-      "Latitude": null,
-      "Longitude": null
+      "Latitude": 32.57853507198363,
+      "Longitude": 22.764241553717977
     },
     {
       "CityID": 66,
@@ -476,66 +482,69 @@
     },
     {
       "CityID": 68,
-      "City_Eng": "Ad Dirsiyah",
-      "City_AR": "الدرسية",
-      "Latitude": null,
-      "Longitude": null
+      "City_Eng": "Tulmitha",
+      "City_AR": "طلميثة",
+      "Latitude": 32.70190351737324,
+      "Longitude": 20.942716495475928
     },
+
+
+
     {
       "CityID": 69,
       "City_Eng": "Al Bayyada",
       "City_AR": "البياضه",
-      "Latitude": null,
-      "Longitude": null
+      "Latitude": 32.56147980464279,
+      "Longitude": 21.251301332284974
     },
     {
       "CityID": 70,
       "City_Eng": "Qayqab",
       "City_AR": "القيقب",
-      "Latitude": null,
-      "Longitude": null
+      "Latitude": 32.73299919431368,
+      "Longitude": 22.017022935238728
     },
     {
       "CityID": 71,
       "City_Eng": "Janzur",
       "City_AR": "جنزور",
-      "Latitude": null,
-      "Longitude": null
+      "Latitude": 32.807983430703366,
+      "Longitude": 12.99358133027259
     },
     {
       "CityID": 72,
       "City_Eng": "Musaid",
-      "City_AR": "مساعد",
-      "Latitude": null,
-      "Longitude": null
+      "City_AR": "امساعد",
+      "Latitude": 31.60588008947876,
+      "Longitude": 25.050160096539006
     },
     {
       "CityID": 73,
       "City_Eng": "Taknis",
       "City_AR": "تاكنس",
-      "Latitude": null,
-      "Longitude": null
+      "Latitude": 32.4800499482548,
+      "Longitude": 21.126348361643867
     },
     {
       "CityID": 74,
       "City_Eng": "Susah",
       "City_AR": "سوسة",
-      "Latitude": null,
-      "Longitude": null
+      "Latitude": 32.895271615307024,
+      "Longitude": 21.961201228551083
     },
     {
       "CityID": 75,
       "City_Eng": "Tazirbu",
-      "City_AR": "تازر بو",
-      "Latitude": null,
-      "Longitude": null
+      "City_AR": "تازربو",
+      "Latitude": 25.671544097166205,
+      "Longitude": 21.073043298403537
     },
     {
       "CityID": 76,
       "City_Eng": "Farzougha",
       "City_AR": "فرزوغة",
-      "Latitude": null,
-      "Longitude": null
+      "Latitude": 32.50983125543768,
+      "Longitude":  20.710090831989614
     },
     {
       "CityID": 77,
@@ -548,22 +557,22 @@
       "CityID": 78,
       "City_Eng": "Bi'r al Ashhab",
       "City_AR": "بئر الأشهب",
-      "Latitude": null,
-      "Longitude": null
+      "Latitude": 31.885286257060915,
+      "Longitude": 24.659212349791925
     },
     {
       "CityID": 79,
       "City_Eng": "Riqdalin",
       "City_AR": "رقدالين",
-      "Latitude": null,
-      "Longitude": null
+      "Latitude": 32.886891843315766,
+      "Longitude": 11.987875810656222
     },
     {
       "CityID": 80,
       "City_Eng": "Al Jawf",
       "City_AR": "الجوف",
-      "Latitude": null,
-      "Longitude": null
+      "Latitude": 24.200222390936528,
+      "Longitude":  23.29043394165124
     },
     {
       "CityID": 81,
