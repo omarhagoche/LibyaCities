@@ -1,6 +1,4 @@
-# omarhagoche.github.io
-
-(/libya/cities.json => Libya Cities)
+# Libyan Cities Publicdataset
 
 Libyan Cities Json File
 ملف Json مدن ليبيا
