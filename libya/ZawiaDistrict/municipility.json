@@ -1,0 +1,29 @@
+{
+    "municipilities":[
+        {
+        "id": 1,
+        "Mun_Eng": "Central Zawia municipility",
+        "Mun_AR": "بلدية الزاوية المركز"
+        },
+        {
+            "id": 2,
+            "Mun_Eng": "Az-Zawia Algharb",
+            "Mun_AR": "بلدية الزاوية الغرب"
+        },
+        {
+            "id": 3,
+            "Mun_Eng": "Az-Zawia ALjanoob",
+            "Mun_AR": "بلدية الزاوية الجنوب"
+        },
+        {
+            "id": 4,
+            "Mun_Eng": "Subratah",
+            "Mun_AR": "بلدية صبراتة "
+        },
+        {
+            "id": 5,
+            "Mun_Eng": "Wershefana",
+            "Mun_AR": "بلدية ورشفانة "
+        }
+    ]
+}
