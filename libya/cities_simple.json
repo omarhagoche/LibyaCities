@@ -437,10 +437,10 @@
     
     {
       "CityID": 62,
-      "City_Eng": "Sidi as Said",
-      "City_AR": "سيدي سعيد",
-      "Latitude": null,
-      "Longitude": null
+      "City_Eng": "Batta",
+      "City_AR": "بطة",
+      "Latitude": 32.65935402439729, 
+      "Longitude": 21.10992884015118
     },
 
 
