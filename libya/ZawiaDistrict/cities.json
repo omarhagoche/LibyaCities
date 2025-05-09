@@ -1,0 +1,183 @@
+{
+    "metadata": {
+        "CityID": 34,
+        "City_Eng": "Zawiya District",
+        "City_AR": "شعبية الزاوية",
+        "Latitude": 32.5370133518238,
+        "Longitude": 12.534999900783628,
+        "Costal_Road_Beg": {
+            "Latitude": 32.8166372,
+            "Longitude": 12.979089
+        },
+        "Costal_Road_End": {
+            "Latitude": 32.7984775,
+            "Longitude": 12.4239311
+        },
+        "Main_Roads": [
+            "Tareeg Beer Alghanam",
+            "Tareeg Surman",
+            "Tareeg BenYousef",
+            "Omar Al-Mokhtar Street",
+            "Deela Street",
+            "Tareeg Alfasi",
+            "Algrawah Street",
+            "Tareeg Alsekka",
+            "Alqanaa Street",
+            "Tripoli Street",
+            "Alhara Street"
+        ]
+    },
+    "cities": [
+        {
+            "id": 1,
+            "Name_Eng": "Az-Zawiyah",
+            "Name_AR": "الزاوية",
+            "Large_City": true,
+            "Medium_City": false,
+            "Village": false,
+            "Latitude": 32.76260251559698,
+            "Longitude": 12.736266715453494
+        },
+        {
+            "id": 2,
+            "Name_Eng": "AlHarsha",
+            "Name_AR": "الحرشة",
+            "Large_City": false,
+            "Medium_City": false,
+            "Village": true,
+            "Latitude": 32.76394490146489,
+            "Longitude": 12.673943389580606
+        },
+        {
+            "id": 3,
+            "Name_Eng": "West Zawiyah",
+            "Name_AR": "الزاوية الغرب",
+            "Large_City": false,
+            "Medium_City": true,
+            "Village": false,
+            "Latitude": 32.76939260584143,
+            "Longitude": 12.630196849343932
+        },
+        {
+            "id": 4,
+            "Name_Eng": "Sbryah",
+            "Name_AR": "الصابرية",
+            "Large_City": false,
+            "Medium_City": false,
+            "Village": true,
+            "Latitude": 32.7374569676034,
+            "Longitude": 12.656120335463205
+        },
+        {
+            "id": 5,
+            "Name_Eng": "Surman",
+            "Name_AR": "صرمان",
+            "Large_City": false,
+            "Medium_City": true,
+            "Village": false,
+            "Latitude": 32.74707657848996,
+            "Longitude": 12.564860877778191
+        },
+        {
+            "id": 6,
+            "Name_Eng": "Subratah",
+            "Name_AR": "صبراتة",
+            "Large_City": true,
+            "Medium_City": false,
+            "Village": false,
+            "Latitude": 32.78204062432787,
+            "Longitude": 12.448965244837076
+        },
+        {
+            "id": 7,
+            "Name_Eng": "Judda'im",
+            "Name_AR": "جوددائم",
+            "Large_City": false,
+            "Medium_City": false,
+            "Village": true,
+            "Latitude": 32.78469987995381,
+            "Longitude": 12.78322486325864
+        },
+        {
+            "id": 8,
+            "Name_Eng": "At Tuwabiyah",
+            "Name_AR": "الطويبية",
+            "Large_City": false,
+            "Medium_City": false,
+            "Village": true,
+            "Latitude": 32.7669548664613,
+            "Longitude": 12.849957028295039
+        },
+        {
+            "id": 9,
+            "Name_Eng": "Abu Surra",
+            "Name_AR": "أبوصرة",
+            "Large_City": false,
+            "Medium_City": false,
+            "Village": true,
+            "Latitude": 32.7172438075228,
+            "Longitude": 12.799025999366476
+        },
+        {
+            "id": 10,
+            "Name_Eng": "Al-Zahra",
+            "Name_AR": "الزهراء",
+            "Large_City": false,
+            "Medium_City": false,
+            "Village": true,
+            "Latitude": 32.674024056215174,
+            "Longitude": 12.871427511941736
+        },
+        {
+            "id": 11,
+            "Name_Eng": "Beer Terfas",
+            "Name_AR": "بئر ترفاس",
+            "Large_City": false,
+            "Medium_City": false,
+            "Village": true,
+            "Latitude": 32.631875115755285,
+            "Longitude": 12.687599622464056
+        },
+        {
+            "id": 12,
+            "Name_Eng": "Beer Hwesa",
+            "Name_AR": "بئر هويسة",
+            "Large_City": false,
+            "Medium_City": false,
+            "Village": true,
+            "Latitude": 32.52275132392158,
+            "Longitude": 12.682509047924109
+        },
+        {
+            "id": 13,
+            "Name_Eng": "Naser",
+            "Name_AR": "ناصر",
+            "Large_City": false,
+            "Medium_City": false,
+            "Village": true,
+            "Latitude": 32.43014127736678,
+            "Longitude": 12.65348166413688
+        },
+        {
+            "id": 14,
+            "Name_Eng": "Beer Alghanam",
+            "Name_AR": "بئر الغنم",
+            "Large_City": false,
+            "Medium_City": false,
+            "Village": true,
+            "Latitude": 32.3113182349049,
+            "Longitude": 12.568305665425802
+        },
+        {
+            "id": 15,
+            "Name_Eng": "Arrabitah",
+            "Name_AR": "الرابطة",
+            "Large_City": false,
+            "Medium_City": false,
+            "Village": true,
+            "Latitude": 32.23364073743857,
+            "Longitude": 12.567353588802796
+        }
+    ]
+}
+
